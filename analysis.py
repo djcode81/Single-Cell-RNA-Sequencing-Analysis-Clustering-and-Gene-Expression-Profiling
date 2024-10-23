@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 import pandas as pd
 
-
-adata = sc.read_10x_h5("/Users/dheerajpv/Documents/Intern/Single-Cell RNA-Seq Analysis of Immune Cell Populations/10k_5p_Human_diseased_PBMC_ALL_Fix_count_filtered_feature_bc_matrix.h5")
+#Remember to change the dataset filepath
+adata = sc.read_10x_h5("/Single-Cell RNA-Seq Analysis of Immune Cell Populations/10k_5p_Human_diseased_PBMC_ALL_Fix_count_filtered_feature_bc_matrix.h5")
 
 adata.var_names_make_unique()
 
