@@ -21,4 +21,4 @@ This project focuses on analyzing single-cell RNA sequencing data. It includes c
 
 1. Clone the repository:
    ```bash
-   git clone [<your-repo-url>](https://github.com/djcode81/Single-Cell-RNA-Sequencing-Analysis-Clustering-and-Gene-Expression-Profiling/tree/main)
+   git clone [(https://github.com/djcode81/Single-Cell-RNA-Sequencing-Analysis-Clustering-and-Gene-Expression-Profiling/tree/main)]
