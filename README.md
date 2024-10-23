@@ -45,9 +45,10 @@ The analysis workflow is as follows:
 
 1. Clone the repository:
    ```bash
-   git clone [(https://github.com/djcode81/Single-Cell-RNA-Sequencing-Analysis-Clustering-and-Gene-Expression-Profiling/tree/main)]
+   git clone git clone https://github.com/djcode81/Single-Cell-RNA-Sequencing-Analysis-Clustering-and-Gene-Expression-Profiling.git
+
 2. After setting up your environment, run the following command:
 
-```bash
-python analysis.py
+   ```bash
+   python analysis.py
 
